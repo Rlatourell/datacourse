@@ -22,6 +22,6 @@ The % Loss of Gloss is a calculated value based on the comparison of the measure
 
 ## 3. Gloss Loss Graphs
 
-
+[Location 1] (Gloss Loss Graphs\Location 01.xlsx)
 
 ## 4. Bar Graphs

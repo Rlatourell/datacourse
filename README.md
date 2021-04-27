@@ -16,10 +16,12 @@ Data on dust levels throughout the museum have been collected since 2016 using a
 
 The % Loss of Gloss is a calculated value based on the comparison of the measured values for exposed slides against a clean glass slide. 
 
-> E.g. Clean Slide: 98.0 Exposed Slide: 95.0 
+> E.g. Clean Slide: 98.0 Exposed Slide: 85.0 
 >
 > 85.0-98.0/98.0*100 = -13.27% 
 
 ## 3. Gloss Loss Graphs
+
+
 
 ## 4. Bar Graphs
